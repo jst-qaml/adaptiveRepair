@@ -6,10 +6,10 @@ Deep Neural Networks (DNNs) are finding a place at the heart of more and more cr
 ## People
 * Davide Li Calsi https://www.linkedin.com/in/davide-li-calsi-4a4968206/
 * Matias Duran https://ar.linkedin.com/in/matias-duran-707068220
-* Thomas Laurent https://scholar.google.com/citations?user=HAosqiEAAAAJ&hl=en
+* Thomas Laurent https://laurenttho3.github.io
 * Xiao-Yi Zhang https://group-mmm.org/~xiaoyi/
 * Paolo Arcaini http://group-mmm.org/~arcaini/
 * Fuyuki Ishikawa http://research.nii.ac.jp/~f-ishikawa/en/
 
 ## Paper
-D. Li Calsi, M. Duran, T. Laurent, X. Zhang, P. Arcaini, F. Ishikawa. Adaptive Search-based Repair of Deep Neural Networks. In The Genetic and Evolutionary Computation Conference (GECCO 2023), Lisbon, Portugal, July 15-19, 2023
+D. Li Calsi, M. Duran, T. Laurent, X. Zhang, P. Arcaini, F. Ishikawa. Adaptive Search-based Repair of Deep Neural Networks. In The Genetic and Evolutionary Computation Conference (GECCO 2023), Lisbon, Portugal, July 15-19, 2023 [[doi](https://doi.org/10.1145/3583131.3590477)]
